@@ -4,3 +4,8 @@ place : windows
 Test text : 
 test test test test test 
 test teste test test test ...
+dalsie text text text text ... 
+bla bla bla 
+blalbalbalbla
+ balbla 
+ bal  a dalsie blal bla a lbal bl
